@@ -1,8 +1,0 @@
-{
-    "insecure-registries" : ["registry.dev.integer-soft.ru:5000"],
-    "max-concurrent-uploads": 1,
-    "log-driver": "json-file",
-  "log-opts": {
-    "max-size": "10m",
-    "max-file": "3"
-  }
